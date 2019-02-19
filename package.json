@@ -1,0 +1,13 @@
+{
+  "name": "products-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx ts-node ./"
+  },
+  "dependencies": {
+    "@types/micro": "^7.3.3",
+    "micro": "^9.3.3"
+  }
+}
